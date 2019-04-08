@@ -1,2 +1,4 @@
 # Ant-Bot1
-Hello viewers, this is our new Ant_bot project and it's nice to beat you!
+
+Hallo zusammen und Herzlich Willkommen bei unserem Hochschulprojekt Robots Wars!
+In den kommenden Monaten werden wir einen Roboter der AntClass konstruieren und freunen uns dabei auf ein faires Battle mit unseren Kommilitionen.
